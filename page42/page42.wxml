@@ -1,0 +1,95 @@
+<view class="flex-col justify-start page">
+  <view class="flex-col group_2">
+    <view class="flex-col header">
+     <view class="flex-row justify-center items-center relative section">
+        <image
+          class="image_4 pos"
+          src="/resources-20231107185333/1f1c022a1efb356316887ce65527015c.png"
+        />
+        <text class="font_1 text_2">志愿团队详情</text>
+      </view>
+      <text class="self-start font_2 text_3">团队编号：1346</text>
+      <text class="self-start text_4 text_5">上海师范大学红苹果慈善义工队</text>
+    </view>
+    <view class="flex-col space-y-30">
+      <view class="flex-col section_2">
+        <view class="shrink-0 divider"></view>
+        <view class="flex-row group_3 space-x-12">
+          <text class="shrink-0 self-start font_2 text_6 text_7">团体简介</text>
+          <text class="flex-auto self-center font_2 text_6 text_8">
+            本团体负责一些场馆类志愿活动以及家教等活动。再场馆类中，我们主要负责引导、检票等。
+          </text>
+        </view>
+      </view>
+      <view class="flex-col section_3 space-y-20">
+        <view class="flex-col">
+          <view class="flex-row group_4 space-x-16">
+            <text class="font_2 text_6">团队管理员</text>
+            <text class="font_3">姚一</text>
+          </view>
+          <view class="divider_2"></view>
+          <view class="flex-row items-center group_5 space-x-30">
+            <text class="font_2 text_6">人数规模</text>
+            <text class="font_4">480</text>
+          </view>
+          <view class="divider_2"></view>
+          <view class="flex-row items-center group_5 space-x-32">
+            <text class="font_2 text_6">成立时间</text>
+            <text class="font_4">2012-08-01</text>
+          </view>
+          <view class="divider_2"></view>
+        </view>
+        <view class="flex-row justify-between items-center group_6">
+          <image
+            class="image_5"
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/6548b9145a7e3f0310edb5f3/654a135987ca550011b0e45b/16993535064983540969.png"
+          />
+          <image
+            class="image_6"
+            src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/6548b9145a7e3f0310edb5f3/654a135987ca550011b0e45b/16993535065001245861.png"
+          />
+          <view class="flex-col justify-start items-center text-wrapper">
+            <text class="font_2 text_9">已参与</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="flex-col group_8 space-y-18">
+      <text class="self-start font_1 text_4 text_10">发起的项目</text>
+      <view class="flex-col space-y-21">
+        <view class="flex-row section_4">
+          <view class="flex-col items-start shrink-0 self-center space-y-16">
+            <text class="font_1 text_6 text_11">2023年爱心义卖活动</text>
+            <text class="font_3 text_4 text_12">【进行中】</text>
+          </view>
+          <view class="flex-col justify-start items-center relative group_7">
+            <image
+              class="image_7"
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/6548b9145a7e3f0310edb5f3/654a135987ca550011b0e45b/16993535102301540943.png"
+            />
+            <image
+              class="image_8 pos_2"
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/6548b9145a7e3f0310edb5f3/654a135987ca550011b0e45b/16993535102088410748.png"
+            />
+            <text class="font_4 text_13 pos_4">2023-9-20</text>
+          </view>
+        </view>
+        <view class="flex-col justify-start items-start relative section_5">
+          <text class="font_3 text_4 text_14">【已结束】</text>
+          <view class="flex-col justify-start items-end pos_3">
+            <image
+              class="image_7"
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/6548b9145a7e3f0310edb5f3/654a135987ca550011b0e45b/16993535100092383185.png"
+            />
+            <image
+              class="image_8 pos_5"
+              src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/6548b9145a7e3f0310edb5f3/654a135987ca550011b0e45b/16993535102088410748.png"
+            />
+            <text class="font_1 text_6 pos_6">2022上师大疫情防控志愿者</text>
+            <text class="font_4 text_13 pos_7">2022-4-07</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    </view>
+</view>
